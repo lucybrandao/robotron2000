@@ -3,7 +3,11 @@
 ![My robotron-2000](././img/robotron_rosa.png)
 
 ## General info
-A project from "Javascript: manipulando o DOM - Alura" curse. 
+A project from "Javascript: manipulando o DOM - Alura" curse.
+
+If you want to see this project, access the link below:
+
+https://robotron-2000-mu.vercel.app/
 
 ## Technologies
 Project is created with:
