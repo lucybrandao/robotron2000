@@ -1,6 +1,6 @@
 # robotron-2000
 
-<!-- ![My robotron-2000](././img/robotron_rosa.png) -->
+![My robotron-2000](././img/robotron_rosa.png)
 
 ## General info
 A project from "Javascript: manipulando o DOM - Alura" curse. 
