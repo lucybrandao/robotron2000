@@ -18,4 +18,5 @@ Project is created with:
 ## Setup
 Just download this project and open `index.html` in your browser.
 
-font: 'https://www.alura.com.br/curso-online-javascript-manipulacao-dom'
+## Font
+- [Alura / JavaScript: manipulando o DOM](https://www.alura.com.br/curso-online-javascript-manipulacao-dom)
