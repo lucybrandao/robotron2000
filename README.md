@@ -1,4 +1,4 @@
-# robotron-2000
+# robotron-2000 :space_invader: (🇧🇷)
 
 ![My robotron-2000](././img/robotron_rosa.png)
 
